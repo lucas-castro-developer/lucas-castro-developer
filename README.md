@@ -26,7 +26,7 @@
   
 - 📫 Como me encontrar: ...
   
-  <a href="https://www.linkedin.com/in/lucas-castro-5762a6125/">
+  <a href="https://www.linkedin.com/in/lucas-santos-castro-developer/">
     <img alt="My linkedin" width="40" src="https://user-images.githubusercontent.com/8903852/126884338-003683ad-1aa5-4656-b516-6793d152b28f.png" />
   </a>
   
